@@ -11,7 +11,6 @@ def make_files(path):
     temp_dir = tempfile.mkdtemp()
     print(temp_dir)
     all_data = {}
-
     header = None
     with open(path, 'r') as read_obj:
         csv_reader = csv.reader(read_obj)
@@ -28,7 +27,7 @@ def make_files(path):
             all_data[date].append(row)
     for key in all_data.keys():
         with open(os.path.join(temp_dir, 'file_{f}.csv'.format(
-            f = key.strftime("%Y_%d_%y"))), 'w') as write_obj:
+            f = key.strftime("%Y_%m_%d"))), 'w') as write_obj:
             csv_writer = csv.writer(write_obj)
             csv_writer.writerow(header)
             for i in all_data[key]:
