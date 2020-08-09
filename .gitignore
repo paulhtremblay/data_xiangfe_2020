@@ -1,1 +1,6 @@
 *.html
+notes.txt
+energy-checkpoint.ipynb
+resamplint_intro-checkpoint.ipynb
+Untitled-checkpoint.ipynb
+__pycache__/*
