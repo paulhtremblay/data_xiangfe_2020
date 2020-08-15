@@ -1,4 +1,5 @@
 *.html
+.ipynb_checkpoints/*
 notes.txt
 energy-checkpoint.ipynb
 resamplint_intro-checkpoint.ipynb
