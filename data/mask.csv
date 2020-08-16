@@ -1,0 +1,760 @@
+Date,period,state,cases,death
+2020-06-05,pre_mask,California,3593,66
+2020-06-06,pre_mask,California,2637,76
+2020-06-07,pre_mask,California,2850,27
+2020-06-08,pre_mask,California,2290,26
+2020-06-09,pre_mask,California,2958,96
+2020-06-10,pre_mask,California,2894,94
+2020-06-11,pre_mask,California,3570,72
+2020-06-12,pre_mask,California,3576,45
+2020-06-13,pre_mask,California,3149,73
+2020-06-14,pre_mask,California,2519,30
+2020-06-15,pre_mask,California,2709,31
+2020-06-16,pre_mask,California,3469,82
+2020-06-17,pre_mask,California,4250,81
+2020-06-18,pre_mask,California,3754,76
+2020-06-19,incuation,California,3708,66
+2020-06-20,incuation,California,4011,70
+2020-06-21,incuation,California,3953,22
+2020-06-22,incuation,California,5813,44
+2020-06-23,incuation,California,6419,76
+2020-06-24,post_mask,California,4850,91
+2020-06-25,post_mask,California,5524,82
+2020-06-26,post_mask,California,5614,62
+2020-06-27,post_mask,California,4426,30
+2020-06-28,post_mask,California,5502,35
+2020-06-29,post_mask,California,7040,42
+2020-06-30,post_mask,California,8158,104
+2020-07-01,post_mask,California,7611,85
+2020-07-02,post_mask,California,8434,95
+2020-07-03,post_mask,California,8100,52
+2020-07-04,post_mask,California,8878,14
+2020-07-05,post_mask,California,6411,40
+2020-07-06,post_mask,California,6282,83
+2020-07-07,post_mask,California,9897,111
+2020-04-07,pre_mask,Connecticut,875,71
+2020-04-08,pre_mask,Connecticut,1000,58
+2020-04-09,pre_mask,Connecticut,1003,45
+2020-04-10,pre_mask,Connecticut,754,68
+2020-04-11,pre_mask,Connecticut,972,46
+2020-04-12,pre_mask,Connecticut,525,60
+2020-04-13,pre_mask,Connecticut,1346,48
+2020-04-14,pre_mask,Connecticut,608,69
+2020-04-15,pre_mask,Connecticut,766,197
+2020-04-16,pre_mask,Connecticut,1129,103
+2020-04-17,pre_mask,Connecticut,925,65
+2020-04-18,pre_mask,Connecticut,741,50
+2020-04-19,pre_mask,Connecticut,412,41
+2020-04-20,pre_mask,Connecticut,1853,204
+2020-04-21,incuation,Connecticut,545,92
+2020-04-22,incuation,Connecticut,2109,121
+2020-04-23,incuation,Connecticut,631,95
+2020-04-24,incuation,Connecticut,821,125
+2020-04-25,incuation,Connecticut,661,98
+2020-04-26,post_mask,Connecticut,687,63
+2020-04-27,post_mask,Connecticut,728,87
+2020-04-28,post_mask,Connecticut,315,77
+2020-04-29,post_mask,Connecticut,455,79
+2020-04-30,post_mask,Connecticut,933,89
+2020-05-01,post_mask,Connecticut,1064,82
+2020-05-02,post_mask,Connecticut,523,97
+2020-05-03,post_mask,Connecticut,0,0
+2020-05-04,post_mask,Connecticut,686,120
+2020-05-05,post_mask,Connecticut,648,77
+2020-05-06,post_mask,Connecticut,374,85
+2020-05-07,post_mask,Connecticut,789,79
+2020-05-08,post_mask,Connecticut,627,77
+2020-05-09,post_mask,Connecticut,573,58
+2020-04-15,pre_mask,Delaware,88,3
+2020-04-16,pre_mask,Delaware,61,6
+2020-04-17,pre_mask,Delaware,248,9
+2020-04-18,pre_mask,Delaware,215,6
+2020-04-19,pre_mask,Delaware,0,0
+2020-04-20,pre_mask,Delaware,207,5
+2020-04-21,pre_mask,Delaware,186,10
+2020-04-22,pre_mask,Delaware,269,7
+2020-04-23,pre_mask,Delaware,108,3
+2020-04-24,pre_mask,Delaware,134,8
+2020-04-25,pre_mask,Delaware,134,12
+2020-04-26,pre_mask,Delaware,458,8
+2020-04-27,pre_mask,Delaware,128,5
+2020-04-28,pre_mask,Delaware,413,12
+2020-04-29,incuation,Delaware,80,7
+2020-04-30,incuation,Delaware,79,8
+2020-05-01,incuation,Delaware,184,7
+2020-05-02,incuation,Delaware,120,9
+2020-05-03,incuation,Delaware,170,9
+2020-05-04,post_mask,Delaware,80,5
+2020-05-05,post_mask,Delaware,83,5
+2020-05-06,post_mask,Delaware,407,6
+2020-05-07,post_mask,Delaware,161,9
+2020-05-08,post_mask,Delaware,144,11
+2020-05-09,post_mask,Delaware,194,8
+2020-05-10,post_mask,Delaware,170,3
+2020-05-11,post_mask,Delaware,118,1
+2020-05-12,post_mask,Delaware,176,12
+2020-05-13,post_mask,Delaware,211,10
+2020-05-14,post_mask,Delaware,271,13
+2020-05-15,post_mask,Delaware,150,11
+2020-05-16,post_mask,Delaware,174,15
+2020-05-17,post_mask,Delaware,123,4
+2020-04-07,pre_mask,Hawaii,23,0
+2020-04-08,pre_mask,Hawaii,25,0
+2020-04-09,pre_mask,Hawaii,7,1
+2020-04-10,pre_mask,Hawaii,23,2
+2020-04-11,pre_mask,Hawaii,21,0
+2020-04-12,pre_mask,Hawaii,13,1
+2020-04-13,pre_mask,Hawaii,5,0
+2020-04-14,pre_mask,Hawaii,9,0
+2020-04-15,pre_mask,Hawaii,13,0
+2020-04-16,pre_mask,Hawaii,11,0
+2020-04-17,pre_mask,Hawaii,12,0
+2020-04-18,pre_mask,Hawaii,21,0
+2020-04-19,pre_mask,Hawaii,6,1
+2020-04-20,pre_mask,Hawaii,4,0
+2020-04-21,incuation,Hawaii,2,2
+2020-04-22,incuation,Hawaii,6,0
+2020-04-23,incuation,Hawaii,4,0
+2020-04-24,incuation,Hawaii,5,1
+2020-04-25,incuation,Hawaii,2,1
+2020-04-26,post_mask,Hawaii,2,0
+2020-04-27,post_mask,Hawaii,1,2
+2020-04-28,post_mask,Hawaii,2,0
+2020-04-29,post_mask,Hawaii,3,0
+2020-04-30,post_mask,Hawaii,4,0
+2020-05-01,post_mask,Hawaii,1,0
+2020-05-02,post_mask,Hawaii,1,0
+2020-05-03,post_mask,Hawaii,0,1
+2020-05-04,post_mask,Hawaii,1,0
+2020-05-05,post_mask,Hawaii,3,0
+2020-05-06,post_mask,Hawaii,1,0
+2020-05-07,post_mask,Hawaii,3,0
+2020-05-08,post_mask,Hawaii,0,0
+2020-05-09,post_mask,Hawaii,1,0
+2020-04-18,pre_mask,Illinois,1585,130
+2020-04-19,pre_mask,Illinois,1197,30
+2020-04-20,pre_mask,Illinois,1151,57
+2020-04-21,pre_mask,Illinois,1551,120
+2020-04-22,pre_mask,Illinois,2049,98
+2020-04-23,pre_mask,Illinois,1827,119
+2020-04-24,pre_mask,Illinois,2723,108
+2020-04-25,pre_mask,Illinois,2119,80
+2020-04-26,pre_mask,Illinois,2126,59
+2020-04-27,pre_mask,Illinois,1980,49
+2020-04-28,pre_mask,Illinois,2219,140
+2020-04-29,pre_mask,Illinois,2253,89
+2020-04-30,pre_mask,Illinois,2563,140
+2020-05-01,pre_mask,Illinois,3137,103
+2020-05-02,incuation,Illinois,2450,112
+2020-05-03,incuation,Illinois,2994,56
+2020-05-04,incuation,Illinois,2341,41
+2020-05-05,incuation,Illinois,2049,170
+2020-05-06,incuation,Illinois,2275,134
+2020-05-07,post_mask,Illinois,2638,162
+2020-05-08,post_mask,Illinois,2886,123
+2020-05-09,post_mask,Illinois,2320,100
+2020-05-10,post_mask,Illinois,1654,64
+2020-05-11,post_mask,Illinois,1461,54
+2020-05-12,post_mask,Illinois,4045,137
+2020-05-13,post_mask,Illinois,1706,198
+2020-05-14,post_mask,Illinois,3207,130
+2020-05-15,post_mask,Illinois,2447,130
+2020-05-16,post_mask,Illinois,2141,74
+2020-05-17,post_mask,Illinois,1691,49
+2020-05-18,post_mask,Illinois,2418,59
+2020-05-19,post_mask,Illinois,1520,142
+2020-05-20,post_mask,Illinois,2415,148
+2020-06-20,pre_mask,Kansas,50,3
+2020-06-21,pre_mask,Kansas,40,1
+2020-06-22,pre_mask,Kansas,318,2
+2020-06-23,pre_mask,Kansas,83,1
+2020-06-24,pre_mask,Kansas,451,1
+2020-06-25,pre_mask,Kansas,97,1
+2020-06-26,pre_mask,Kansas,522,3
+2020-06-27,pre_mask,Kansas,38,3
+2020-06-28,pre_mask,Kansas,249,3
+2020-06-29,pre_mask,Kansas,552,4
+2020-06-30,pre_mask,Kansas,61,0
+2020-07-01,pre_mask,Kansas,513,4
+2020-07-02,pre_mask,Kansas,84,2
+2020-07-03,pre_mask,Kansas,789,1
+2020-07-04,incuation,Kansas,150,1
+2020-07-05,incuation,Kansas,124,3
+2020-07-06,incuation,Kansas,793,1
+2020-07-07,incuation,Kansas,75,2
+2020-07-08,incuation,Kansas,650,1
+2020-07-09,post_mask,Kansas,224,3
+2020-07-10,post_mask,Kansas,768,0
+2020-07-11,post_mask,Kansas,184,0
+2020-07-12,post_mask,Kansas,312,6
+2020-07-13,post_mask,Kansas,970,1
+2020-07-14,post_mask,Kansas,82,2
+2020-07-15,post_mask,Kansas,810,5
+2020-07-16,post_mask,Kansas,116,1
+2020-07-17,post_mask,Kansas,926,1
+2020-07-18,post_mask,Kansas,39,2
+2020-07-19,post_mask,Kansas,221,1
+2020-07-20,post_mask,Kansas,1085,5
+2020-07-21,post_mask,Kansas,62,1
+2020-07-22,post_mask,Kansas,770,5
+2020-04-28,pre_mask,Kentucky,229,15
+2020-04-29,pre_mask,Kentucky,163,4
+2020-04-30,pre_mask,Kentucky,170,5
+2020-05-01,pre_mask,Kentucky,171,8
+2020-05-02,pre_mask,Kentucky,2,4
+2020-05-03,pre_mask,Kentucky,342,4
+2020-05-04,pre_mask,Kentucky,147,11
+2020-05-05,pre_mask,Kentucky,452,11
+2020-05-06,pre_mask,Kentucky,124,8
+2020-05-07,pre_mask,Kentucky,227,16
+2020-05-08,pre_mask,Kentucky,125,2
+2020-05-09,pre_mask,Kentucky,171,8
+2020-05-10,pre_mask,Kentucky,17,0
+2020-05-11,pre_mask,Kentucky,224,13
+2020-05-12,incuation,Kentucky,293,8
+2020-05-13,incuation,Kentucky,99,1
+2020-05-14,incuation,Kentucky,295,7
+2020-05-15,incuation,Kentucky,181,2
+2020-05-16,incuation,Kentucky,195,3
+2020-05-17,post_mask,Kentucky,20,0
+2020-05-18,post_mask,Kentucky,248,8
+2020-05-19,post_mask,Kentucky,164,15
+2020-05-20,post_mask,Kentucky,131,12
+2020-05-21,post_mask,Kentucky,139,12
+2020-05-22,post_mask,Kentucky,213,5
+2020-05-23,post_mask,Kentucky,124,1
+2020-05-24,post_mask,Kentucky,30,0
+2020-05-25,post_mask,Kentucky,57,4
+2020-05-26,post_mask,Kentucky,276,4
+2020-05-27,post_mask,Kentucky,138,13
+2020-05-28,post_mask,Kentucky,197,4
+2020-05-29,post_mask,Kentucky,178,10
+2020-05-30,post_mask,Kentucky,199,7
+2020-04-18,pre_mask,Maine,20,3
+2020-04-19,pre_mask,Maine,20,2
+2020-04-20,pre_mask,Maine,8,1
+2020-04-21,pre_mask,Maine,13,1
+2020-04-22,pre_mask,Maine,19,3
+2020-04-23,pre_mask,Maine,30,5
+2020-04-24,pre_mask,Maine,28,3
+2020-04-25,pre_mask,Maine,25,3
+2020-04-26,pre_mask,Maine,25,0
+2020-04-27,pre_mask,Maine,8,1
+2020-04-28,pre_mask,Maine,17,0
+2020-04-29,pre_mask,Maine,16,1
+2020-04-30,pre_mask,Maine,39,1
+2020-05-01,pre_mask,Maine,28,2
+2020-05-02,incuation,Maine,29,1
+2020-05-03,incuation,Maine,33,1
+2020-05-04,incuation,Maine,20,0
+2020-05-05,incuation,Maine,21,4
+2020-05-06,incuation,Maine,28,1
+2020-05-07,post_mask,Maine,76,0
+2020-05-08,post_mask,Maine,44,1
+2020-05-09,post_mask,Maine,34,1
+2020-05-10,post_mask,Maine,28,0
+2020-05-11,post_mask,Maine,26,1
+2020-05-12,post_mask,Maine,15,0
+2020-05-13,post_mask,Maine,38,1
+2020-05-14,post_mask,Maine,50,3
+2020-05-15,post_mask,Maine,38,0
+2020-05-16,post_mask,Maine,45,1
+2020-05-17,post_mask,Maine,39,0
+2020-05-18,post_mask,Maine,26,1
+2020-05-19,post_mask,Maine,28,2
+2020-05-20,post_mask,Maine,78,0
+2020-04-05,pre_mask,Maryland,484,14
+2020-04-06,pre_mask,Maryland,436,24
+2020-04-07,pre_mask,Maryland,326,12
+2020-04-08,pre_mask,Maryland,1158,20
+2020-04-09,pre_mask,Maryland,656,15
+2020-04-10,pre_mask,Maryland,783,33
+2020-04-11,pre_mask,Maryland,726,35
+2020-04-12,pre_mask,Maryland,531,29
+2020-04-13,pre_mask,Maryland,711,26
+2020-04-14,pre_mask,Maryland,536,40
+2020-04-15,pre_mask,Maryland,624,111
+2020-04-16,pre_mask,Maryland,755,46
+2020-04-17,pre_mask,Maryland,790,35
+2020-04-18,pre_mask,Maryland,738,40
+2020-04-19,incuation,Maryland,513,14
+2020-04-20,incuation,Maryland,858,34
+2020-04-21,incuation,Maryland,511,70
+2020-04-22,incuation,Maryland,581,46
+2020-04-23,incuation,Maryland,963,50
+2020-04-24,post_mask,Maryland,888,50
+2020-04-25,post_mask,Maryland,1151,77
+2020-04-26,post_mask,Maryland,820,35
+2020-04-27,post_mask,Maryland,910,35
+2020-04-28,post_mask,Maryland,626,71
+2020-04-29,post_mask,Maryland,742,62
+2020-04-30,post_mask,Maryland,883,61
+2020-05-01,post_mask,Maryland,1741,53
+2020-05-02,post_mask,Maryland,1002,59
+2020-05-03,post_mask,Maryland,993,30
+2020-05-04,post_mask,Maryland,948,36
+2020-05-05,post_mask,Maryland,708,73
+2020-05-06,post_mask,Maryland,1046,53
+2020-05-07,post_mask,Maryland,1213,60
+2020-04-23,pre_mask,Massachusetts,3079,178
+2020-04-24,pre_mask,Massachusetts,4946,196
+2020-04-25,pre_mask,Massachusetts,2379,174
+2020-04-26,pre_mask,Massachusetts,1590,169
+2020-04-27,pre_mask,Massachusetts,1524,104
+2020-04-28,pre_mask,Massachusetts,1840,150
+2020-04-29,pre_mask,Massachusetts,1963,252
+2020-04-30,pre_mask,Massachusetts,1940,157
+2020-05-01,pre_mask,Massachusetts,2106,154
+2020-05-02,pre_mask,Massachusetts,1952,130
+2020-05-03,pre_mask,Massachusetts,1824,158
+2020-05-04,pre_mask,Massachusetts,1000,86
+2020-05-05,pre_mask,Massachusetts,1184,122
+2020-05-06,pre_mask,Massachusetts,1754,208
+2020-05-07,incuation,Massachusetts,1696,132
+2020-05-08,incuation,Massachusetts,1612,150
+2020-05-09,incuation,Massachusetts,1410,138
+2020-05-10,incuation,Massachusetts,1050,139
+2020-05-11,incuation,Massachusetts,669,129
+2020-05-12,post_mask,Massachusetts,870,33
+2020-05-13,post_mask,Massachusetts,1165,174
+2020-05-14,post_mask,Massachusetts,1685,167
+2020-05-15,post_mask,Massachusetts,1239,110
+2020-05-16,post_mask,Massachusetts,1512,113
+2020-05-17,post_mask,Massachusetts,1077,92
+2020-05-18,post_mask,Massachusetts,1042,65
+2020-05-19,post_mask,Massachusetts,873,76
+2020-05-20,post_mask,Massachusetts,1045,128
+2020-05-21,post_mask,Massachusetts,1114,82
+2020-05-22,post_mask,Massachusetts,805,80
+2020-05-23,post_mask,Massachusetts,773,76
+2020-05-24,post_mask,Massachusetts,1013,68
+2020-05-25,post_mask,Massachusetts,596,44
+2020-06-05,pre_mask,Michigan,4529,250
+2020-06-06,pre_mask,Michigan,452,40
+2020-06-07,pre_mask,Michigan,419,4
+2020-06-08,pre_mask,Michigan,296,18
+2020-06-09,pre_mask,Michigan,279,30
+2020-06-10,pre_mask,Michigan,187,12
+2020-06-11,pre_mask,Michigan,250,27
+2020-06-12,pre_mask,Michigan,254,9
+2020-06-13,pre_mask,Michigan,143,23
+2020-06-14,pre_mask,Michigan,222,3
+2020-06-15,pre_mask,Michigan,56,5
+2020-06-16,pre_mask,Michigan,164,14
+2020-06-17,pre_mask,Michigan,228,2
+2020-06-18,pre_mask,Michigan,286,23
+2020-06-19,incuation,Michigan,320,7
+2020-06-20,incuation,Michigan,421,20
+2020-06-21,incuation,Michigan,152,3
+2020-06-22,incuation,Michigan,271,7
+2020-06-23,incuation,Michigan,229,12
+2020-06-24,post_mask,Michigan,338,5
+2020-06-25,post_mask,Michigan,448,19
+2020-06-26,post_mask,Michigan,314,1
+2020-06-27,post_mask,Michigan,329,19
+2020-06-28,post_mask,Michigan,240,4
+2020-06-29,post_mask,Michigan,314,4
+2020-06-30,post_mask,Michigan,494,32
+2020-07-01,post_mask,Michigan,429,5
+2020-07-02,post_mask,Michigan,574,14
+2020-07-03,post_mask,Michigan,453,3
+2020-07-04,post_mask,Michigan,396,3
+2020-07-05,post_mask,Michigan,325,0
+2020-07-06,post_mask,Michigan,376,3
+2020-07-07,post_mask,Michigan,608,31
+2020-06-11,pre_mask,Nevada,248,11
+2020-06-12,pre_mask,Nevada,240,2
+2020-06-13,pre_mask,Nevada,288,1
+2020-06-14,pre_mask,Nevada,207,1
+2020-06-15,pre_mask,Nevada,117,2
+2020-06-16,pre_mask,Nevada,357,1
+2020-06-17,pre_mask,Nevada,179,6
+2020-06-18,pre_mask,Nevada,312,2
+2020-06-19,pre_mask,Nevada,361,4
+2020-06-20,pre_mask,Nevada,452,7
+2020-06-21,pre_mask,Nevada,259,1
+2020-06-22,pre_mask,Nevada,339,3
+2020-06-23,pre_mask,Nevada,483,2
+2020-06-24,pre_mask,Nevada,402,2
+2020-06-25,incuation,Nevada,451,1
+2020-06-26,incuation,Nevada,448,3
+2020-06-27,incuation,Nevada,1041,2
+2020-06-28,incuation,Nevada,787,0
+2020-06-29,incuation,Nevada,784,5
+2020-06-30,post_mask,Nevada,611,2
+2020-07-01,post_mask,Nevada,569,5
+2020-07-02,post_mask,Nevada,720,13
+2020-07-03,post_mask,Nevada,1007,5
+2020-07-04,post_mask,Nevada,793,0
+2020-07-05,post_mask,Nevada,847,7
+2020-07-06,post_mask,Nevada,412,0
+2020-07-07,post_mask,Nevada,918,12
+2020-07-08,post_mask,Nevada,530,7
+2020-07-09,post_mask,Nevada,677,18
+2020-07-10,post_mask,Nevada,906,7
+2020-07-11,post_mask,Nevada,951,11
+2020-07-12,post_mask,Nevada,833,1
+2020-07-13,post_mask,Nevada,852,3
+2020-03-26,pre_mask,New Jersey,2474,20
+2020-03-27,pre_mask,New Jersey,1949,26
+2020-03-28,pre_mask,New Jersey,2299,32
+2020-03-29,pre_mask,New Jersey,2262,21
+2020-03-30,pre_mask,New Jersey,3250,38
+2020-03-31,pre_mask,New Jersey,2060,68
+2020-04-01,pre_mask,New Jersey,3559,88
+2020-04-02,pre_mask,New Jersey,3335,184
+2020-04-03,pre_mask,New Jersey,4305,108
+2020-04-04,pre_mask,New Jersey,4229,200
+2020-04-05,pre_mask,New Jersey,3381,70
+2020-04-06,pre_mask,New Jersey,3585,88
+2020-04-07,pre_mask,New Jersey,3326,227
+2020-04-08,pre_mask,New Jersey,3021,272
+2020-04-09,incuation,New Jersey,3590,196
+2020-04-10,incuation,New Jersey,3561,232
+2020-04-11,incuation,New Jersey,3563,251
+2020-04-12,incuation,New Jersey,3699,167
+2020-04-13,incuation,New Jersey,2734,93
+2020-04-14,post_mask,New Jersey,4240,362
+2020-04-15,post_mask,New Jersey,2206,351
+2020-04-16,post_mask,New Jersey,4287,362
+2020-04-17,post_mask,New Jersey,3150,322
+2020-04-18,post_mask,New Jersey,2953,230
+2020-04-19,post_mask,New Jersey,3881,132
+2020-04-20,post_mask,New Jersey,3505,175
+2020-04-21,post_mask,New Jersey,3581,376
+2020-04-22,post_mask,New Jersey,3478,310
+2020-04-23,post_mask,New Jersey,4124,305
+2020-04-24,post_mask,New Jersey,2207,249
+2020-04-25,post_mask,New Jersey,3327,246
+2020-04-26,post_mask,New Jersey,3515,75
+2020-04-27,post_mask,New Jersey,2150,106
+2020-05-03,pre_mask,New Mexico,118,12
+2020-05-04,pre_mask,New Mexico,180,5
+2020-05-05,pre_mask,New Mexico,107,6
+2020-05-06,pre_mask,New Mexico,153,7
+2020-05-07,pre_mask,New Mexico,202,3
+2020-05-08,pre_mask,New Mexico,181,9
+2020-05-09,pre_mask,New Mexico,105,10
+2020-05-10,pre_mask,New Mexico,85,9
+2020-05-11,pre_mask,New Mexico,206,8
+2020-05-12,pre_mask,New Mexico,143,11
+2020-05-13,pre_mask,New Mexico,152,12
+2020-05-14,pre_mask,New Mexico,139,11
+2020-05-15,pre_mask,New Mexico,159,11
+2020-05-16,pre_mask,New Mexico,185,6
+2020-05-17,incuation,New Mexico,91,6
+2020-05-18,incuation,New Mexico,158,5
+2020-05-19,incuation,New Mexico,96,6
+2020-05-20,incuation,New Mexico,146,7
+2020-05-21,incuation,New Mexico,134,11
+2020-05-22,post_mask,New Mexico,153,8
+2020-05-23,post_mask,New Mexico,170,6
+2020-05-24,post_mask,New Mexico,148,9
+2020-05-25,post_mask,New Mexico,83,3
+2020-05-26,post_mask,New Mexico,104,5
+2020-05-27,post_mask,New Mexico,122,4
+2020-05-28,post_mask,New Mexico,112,6
+2020-05-29,post_mask,New Mexico,129,9
+2020-05-30,post_mask,New Mexico,131,7
+2020-05-31,post_mask,New Mexico,65,5
+2020-06-01,post_mask,New Mexico,111,6
+2020-06-02,post_mask,New Mexico,224,5
+2020-06-03,post_mask,New Mexico,116,8
+2020-06-04,post_mask,New Mexico,213,8
+2020-04-04,pre_mask,New York,12274,819
+2020-04-05,pre_mask,New York,8122,800
+2020-04-06,pre_mask,New York,9304,814
+2020-04-07,pre_mask,New York,8314,1036
+2020-04-08,pre_mask,New York,9568,953
+2020-04-09,pre_mask,New York,10765,1028
+2020-04-10,pre_mask,New York,10794,996
+2020-04-11,pre_mask,New York,10160,997
+2020-04-12,pre_mask,New York,8435,957
+2020-04-13,pre_mask,New York,6548,882
+2020-04-14,pre_mask,New York,7402,1003
+2020-04-15,pre_mask,New York,11755,936
+2020-04-16,pre_mask,New York,8631,732
+2020-04-17,pre_mask,New York,7532,804
+2020-04-18,incuation,New York,7249,668
+2020-04-19,incuation,New York,6199,652
+2020-04-20,incuation,New York,4867,619
+2020-04-21,incuation,New York,4324,628
+2020-04-22,incuation,New York,5659,607
+2020-04-23,post_mask,New York,6341,565
+2020-04-24,post_mask,New York,8286,547
+2020-04-25,post_mask,New York,10683,567
+2020-04-26,post_mask,New York,6013,478
+2020-04-27,post_mask,New York,4077,463
+2020-04-28,post_mask,New York,3285,510
+2020-04-29,post_mask,New York,4718,510
+2020-04-30,post_mask,New York,4702,329
+2020-05-01,post_mask,New York,3879,225
+2020-05-02,post_mask,New York,4559,194
+2020-05-03,post_mask,New York,3699,541
+2020-05-04,post_mask,New York,2524,212
+2020-05-05,post_mask,New York,2302,240
+2020-05-06,post_mask,New York,2746,928
+2020-06-13,pre_mask,North Carolina,1444,7
+2020-06-14,pre_mask,North Carolina,1288,4
+2020-06-15,pre_mask,North Carolina,1058,17
+2020-06-16,pre_mask,North Carolina,848,29
+2020-06-17,pre_mask,North Carolina,1037,13
+2020-06-18,pre_mask,North Carolina,1284,11
+2020-06-19,pre_mask,North Carolina,1588,14
+2020-06-20,pre_mask,North Carolina,1626,16
+2020-06-21,pre_mask,North Carolina,1214,6
+2020-06-22,pre_mask,North Carolina,986,5
+2020-06-23,pre_mask,North Carolina,986,26
+2020-06-24,pre_mask,North Carolina,1437,19
+2020-06-25,pre_mask,North Carolina,1277,10
+2020-06-26,pre_mask,North Carolina,1717,14
+2020-06-27,incuation,North Carolina,1452,15
+2020-06-28,incuation,North Carolina,1469,4
+2020-06-29,incuation,North Carolina,1514,3
+2020-06-30,incuation,North Carolina,1372,21
+2020-07-01,incuation,North Carolina,1751,27
+2020-07-02,post_mask,North Carolina,1697,13
+2020-07-03,post_mask,North Carolina,1939,11
+2020-07-04,post_mask,North Carolina,1284,1
+2020-07-05,post_mask,North Carolina,1361,0
+2020-07-06,post_mask,North Carolina,1837,10
+2020-07-07,post_mask,North Carolina,1255,22
+2020-07-08,post_mask,North Carolina,1473,24
+2020-07-09,post_mask,North Carolina,1903,17
+2020-07-10,post_mask,North Carolina,2173,16
+2020-07-11,post_mask,North Carolina,2259,17
+2020-07-12,post_mask,North Carolina,1835,12
+2020-07-13,post_mask,North Carolina,1822,15
+2020-07-14,post_mask,North Carolina,2114,35
+2020-07-15,post_mask,North Carolina,1806,16
+2020-06-18,pre_mask,Oregon,155,4
+2020-06-19,pre_mask,Oregon,202,1
+2020-06-20,pre_mask,Oregon,90,0
+2020-06-21,pre_mask,Oregon,263,2
+2020-06-22,pre_mask,Oregon,170,2
+2020-06-23,pre_mask,Oregon,202,0
+2020-06-24,pre_mask,Oregon,145,3
+2020-06-25,pre_mask,Oregon,143,4
+2020-06-26,pre_mask,Oregon,403,5
+2020-06-27,pre_mask,Oregon,102,0
+2020-06-28,pre_mask,Oregon,238,0
+2020-06-29,pre_mask,Oregon,161,3
+2020-06-30,pre_mask,Oregon,186,3
+2020-07-01,pre_mask,Oregon,324,1
+2020-07-02,incuation,Oregon,325,1
+2020-07-03,incuation,Oregon,299,3
+2020-07-04,incuation,Oregon,294,1
+2020-07-05,incuation,Oregon,300,2
+2020-07-06,incuation,Oregon,176,0
+2020-07-07,post_mask,Oregon,241,6
+2020-07-08,post_mask,Oregon,218,4
+2020-07-09,post_mask,Oregon,375,5
+2020-07-10,post_mask,Oregon,254,2
+2020-07-11,post_mask,Oregon,350,0
+2020-07-12,post_mask,Oregon,319,2
+2020-07-13,post_mask,Oregon,341,3
+2020-07-14,post_mask,Oregon,323,7
+2020-07-15,post_mask,Oregon,295,2
+2020-07-16,post_mask,Oregon,412,3
+2020-07-17,post_mask,Oregon,301,4
+2020-07-18,post_mask,Oregon,389,3
+2020-07-19,post_mask,Oregon,355,3
+2020-07-20,post_mask,Oregon,321,2
+2020-04-06,pre_mask,Pennsylvania,1485,11
+2020-04-07,pre_mask,Pennsylvania,1507,71
+2020-04-08,pre_mask,Pennsylvania,1832,72
+2020-04-09,pre_mask,Pennsylvania,1965,31
+2020-04-10,pre_mask,Pennsylvania,1749,91
+2020-04-11,pre_mask,Pennsylvania,1646,80
+2020-04-12,pre_mask,Pennsylvania,1181,10
+2020-04-13,pre_mask,Pennsylvania,1340,38
+2020-04-14,pre_mask,Pennsylvania,1296,183
+2020-04-15,pre_mask,Pennsylvania,1213,87
+2020-04-16,pre_mask,Pennsylvania,1510,107
+2020-04-17,pre_mask,Pennsylvania,1807,87
+2020-04-18,pre_mask,Pennsylvania,1621,123
+2020-04-19,pre_mask,Pennsylvania,1250,135
+2020-04-20,incuation,Pennsylvania,1013,81
+2020-04-21,incuation,Pennsylvania,1379,254
+2020-04-22,incuation,Pennsylvania,1379,100
+2020-04-23,incuation,Pennsylvania,1571,3
+2020-04-24,incuation,Pennsylvania,1964,63
+2020-04-25,post_mask,Pennsylvania,1328,56
+2020-04-26,post_mask,Pennsylvania,1083,29
+2020-04-27,post_mask,Pennsylvania,1019,75
+2020-04-28,post_mask,Pennsylvania,1595,146
+2020-04-29,post_mask,Pennsylvania,868,300
+2020-04-30,post_mask,Pennsylvania,2033,188
+2020-05-01,post_mask,Pennsylvania,1540,91
+2020-05-02,post_mask,Pennsylvania,1307,123
+2020-05-03,post_mask,Pennsylvania,1008,49
+2020-05-04,post_mask,Pennsylvania,913,37
+2020-05-05,post_mask,Pennsylvania,975,326
+2020-05-06,post_mask,Pennsylvania,1022,154
+2020-05-07,post_mask,Pennsylvania,1160,239
+2020-05-08,post_mask,Pennsylvania,1352,125
+2020-05-05,pre_mask,Rhode Island,281,14
+2020-05-06,pre_mask,Rhode Island,272,15
+2020-05-07,pre_mask,Rhode Island,325,18
+2020-05-08,pre_mask,Rhode Island,249,11
+2020-05-09,pre_mask,Rhode Island,210,19
+2020-05-10,pre_mask,Rhode Island,285,4
+2020-05-11,pre_mask,Rhode Island,176,8
+2020-05-12,pre_mask,Rhode Island,164,14
+2020-05-13,pre_mask,Rhode Island,221,18
+2020-05-14,pre_mask,Rhode Island,181,6
+2020-05-15,pre_mask,Rhode Island,203,11
+2020-05-16,pre_mask,Rhode Island,215,10
+2020-05-17,pre_mask,Rhode Island,240,10
+2020-05-18,pre_mask,Rhode Island,121,7
+2020-05-19,incuation,Rhode Island,156,26
+2020-05-20,incuation,Rhode Island,405,6
+2020-05-21,incuation,Rhode Island,215,18
+2020-05-22,incuation,Rhode Island,165,23
+2020-05-23,incuation,Rhode Island,216,18
+2020-05-24,post_mask,Rhode Island,113,11
+2020-05-25,post_mask,Rhode Island,0,0
+2020-05-26,post_mask,Rhode Island,145,26
+2020-05-27,post_mask,Rhode Island,143,21
+2020-05-28,post_mask,Rhode Island,141,22
+2020-05-29,post_mask,Rhode Island,141,16
+2020-05-30,post_mask,Rhode Island,184,18
+2020-05-31,post_mask,Rhode Island,109,7
+2020-06-01,post_mask,Rhode Island,63,2
+2020-06-02,post_mask,Rhode Island,121,12
+2020-06-03,post_mask,Rhode Island,107,10
+2020-06-04,post_mask,Rhode Island,106,14
+2020-06-05,post_mask,Rhode Island,116,16
+2020-06-06,post_mask,Rhode Island,0,0
+2020-06-20,pre_mask,Texas,4272,18
+2020-06-21,pre_mask,Texas,3292,9
+2020-06-22,pre_mask,Texas,4760,18
+2020-06-23,pre_mask,Texas,5080,33
+2020-06-24,pre_mask,Texas,6584,46
+2020-06-25,pre_mask,Texas,5473,29
+2020-06-26,pre_mask,Texas,5799,41
+2020-06-27,pre_mask,Texas,6057,36
+2020-06-28,pre_mask,Texas,4227,10
+2020-06-29,pre_mask,Texas,5890,22
+2020-06-30,pre_mask,Texas,7947,52
+2020-07-01,pre_mask,Texas,8123,36
+2020-07-02,pre_mask,Texas,7434,44
+2020-07-03,pre_mask,Texas,7789,47
+2020-07-04,incuation,Texas,5658,37
+2020-07-05,incuation,Texas,4430,20
+2020-07-06,incuation,Texas,9213,60
+2020-07-07,incuation,Texas,9814,90
+2020-07-08,incuation,Texas,9952,119
+2020-07-09,post_mask,Texas,10909,102
+2020-07-10,post_mask,Texas,9923,92
+2020-07-11,post_mask,Texas,8332,77
+2020-07-12,post_mask,Texas,6531,40
+2020-07-13,post_mask,Texas,8921,67
+2020-07-14,post_mask,Texas,10906,136
+2020-07-15,post_mask,Texas,11840,141
+2020-07-16,post_mask,Texas,15038,154
+2020-07-17,post_mask,Texas,9738,145
+2020-07-18,post_mask,Texas,8805,83
+2020-07-19,post_mask,Texas,7977,61
+2020-07-20,post_mask,Texas,7636,127
+2020-07-21,post_mask,Texas,9922,159
+2020-07-22,post_mask,Texas,10967,203
+2020-05-16,pre_mask,Virginia,1010,25
+2020-05-17,pre_mask,Virginia,704,7
+2020-05-18,pre_mask,Virginia,749,5
+2020-05-19,pre_mask,Virginia,997,27
+2020-05-20,pre_mask,Virginia,759,33
+2020-05-21,pre_mask,Virginia,1228,25
+2020-05-22,pre_mask,Virginia,809,37
+2020-05-23,pre_mask,Virginia,800,22
+2020-05-24,pre_mask,Virginia,495,12
+2020-05-25,pre_mask,Virginia,1483,37
+2020-05-26,pre_mask,Virginia,1612,28
+2020-05-27,pre_mask,Virginia,905,45
+2020-05-28,pre_mask,Virginia,1150,57
+2020-05-29,pre_mask,Virginia,1132,20
+2020-05-30,incuation,Virginia,1078,12
+2020-05-31,incuation,Virginia,996,5
+2020-06-01,incuation,Virginia,790,17
+2020-06-02,incuation,Virginia,836,15
+2020-06-03,incuation,Virginia,665,21
+2020-06-04,post_mask,Virginia,950,17
+2020-06-05,post_mask,Virginia,674,8
+2020-06-06,post_mask,Virginia,859,7
+2020-06-07,post_mask,Virginia,1283,12
+2020-06-08,post_mask,Virginia,568,5
+2020-06-09,post_mask,Virginia,487,19
+2020-06-10,post_mask,Virginia,437,18
+2020-06-11,post_mask,Virginia,469,6
+2020-06-12,post_mask,Virginia,563,14
+2020-06-13,post_mask,Virginia,658,7
+2020-06-14,post_mask,Virginia,637,5
+2020-06-15,post_mask,Virginia,380,6
+2020-06-16,post_mask,Virginia,443,18
+2020-06-17,post_mask,Virginia,442,13
+2020-06-13,pre_mask,Washington,344,9
+2020-06-14,pre_mask,Washington,215,4
+2020-06-15,pre_mask,Washington,442,3
+2020-06-16,pre_mask,Washington,372,11
+2020-06-17,pre_mask,Washington,321,-5
+2020-06-18,pre_mask,Washington,393,17
+2020-06-19,pre_mask,Washington,382,12
+2020-06-20,pre_mask,Washington,421,10
+2020-06-21,pre_mask,Washington,331,3
+2020-06-22,pre_mask,Washington,646,6
+2020-06-23,pre_mask,Washington,335,8
+2020-06-24,pre_mask,Washington,622,9
+2020-06-25,pre_mask,Washington,598,7
+2020-06-26,pre_mask,Washington,491,4
+2020-06-27,incuation,Washington,542,6
+2020-06-28,incuation,Washington,310,0
+2020-06-29,incuation,Washington,695,10
+2020-06-30,incuation,Washington,505,12
+2020-07-01,incuation,Washington,717,7
+2020-07-02,post_mask,Washington,663,3
+2020-07-03,post_mask,Washington,496,10
+2020-07-04,post_mask,Washington,382,2
+2020-07-05,post_mask,Washington,669,5
+2020-07-06,post_mask,Washington,1049,10
+2020-07-07,post_mask,Washington,546,15
+2020-07-08,post_mask,Washington,598,10
+2020-07-09,post_mask,Washington,708,15
+2020-07-10,post_mask,Washington,721,16
+2020-07-11,post_mask,Washington,236,0
+2020-07-12,post_mask,Washington,855,12
+2020-07-13,post_mask,Washington,1357,1
+2020-07-14,post_mask,Washington,719,26
+2020-07-15,post_mask,Washington,747,21
+2020-06-23,pre_mask,West Virginia,22,2
+2020-06-24,pre_mask,West Virginia,36,0
+2020-06-25,pre_mask,West Virginia,64,0
+2020-06-26,pre_mask,West Virginia,36,0
+2020-06-27,pre_mask,West Virginia,52,1
+2020-06-28,pre_mask,West Virginia,50,0
+2020-06-29,pre_mask,West Virginia,38,0
+2020-06-30,pre_mask,West Virginia,35,0
+2020-07-01,pre_mask,West Virginia,75,0
+2020-07-02,pre_mask,West Virginia,74,0
+2020-07-03,pre_mask,West Virginia,73,0
+2020-07-04,pre_mask,West Virginia,79,1
+2020-07-05,pre_mask,West Virginia,130,1
+2020-07-06,pre_mask,West Virginia,107,0
+2020-07-07,incuation,West Virginia,63,0
+2020-07-08,incuation,West Virginia,202,0
+2020-07-09,incuation,West Virginia,119,0
+2020-07-10,incuation,West Virginia,157,0
+2020-07-11,incuation,West Virginia,163,1
+2020-07-12,post_mask,West Virginia,98,0
+2020-07-13,post_mask,West Virginia,69,1
+2020-07-14,post_mask,West Virginia,94,0
+2020-07-15,post_mask,West Virginia,150,1
+2020-07-16,post_mask,West Virginia,100,1
+2020-07-17,post_mask,West Virginia,126,1
+2020-07-18,post_mask,West Virginia,139,0
+2020-07-19,post_mask,West Virginia,120,0
+2020-07-20,post_mask,West Virginia,100,0
+2020-07-21,post_mask,West Virginia,57,1
+2020-07-22,post_mask,West Virginia,262,1
+2020-07-23,post_mask,West Virginia,89,1
+2020-07-24,post_mask,West Virginia,145,0
+2020-07-25,post_mask,West Virginia,126,0
